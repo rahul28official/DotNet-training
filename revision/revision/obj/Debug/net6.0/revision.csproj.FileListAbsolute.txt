@@ -1,0 +1,15 @@
+C:\Users\Eygdnet24\source\repos\revision\revision\bin\Debug\net6.0\revision.exe
+C:\Users\Eygdnet24\source\repos\revision\revision\bin\Debug\net6.0\revision.deps.json
+C:\Users\Eygdnet24\source\repos\revision\revision\bin\Debug\net6.0\revision.runtimeconfig.json
+C:\Users\Eygdnet24\source\repos\revision\revision\bin\Debug\net6.0\revision.dll
+C:\Users\Eygdnet24\source\repos\revision\revision\bin\Debug\net6.0\revision.pdb
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.csproj.AssemblyReference.cache
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.AssemblyInfoInputs.cache
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.AssemblyInfo.cs
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.csproj.CoreCompileInputs.cache
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.dll
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\refint\revision.dll
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.pdb
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\revision.genruntimeconfig.cache
+C:\Users\Eygdnet24\source\repos\revision\revision\obj\Debug\net6.0\ref\revision.dll
