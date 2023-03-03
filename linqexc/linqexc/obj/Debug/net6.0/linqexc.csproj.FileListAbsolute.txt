@@ -1,0 +1,15 @@
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\bin\Debug\net6.0\linqexc.exe
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\bin\Debug\net6.0\linqexc.deps.json
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\bin\Debug\net6.0\linqexc.runtimeconfig.json
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\bin\Debug\net6.0\linqexc.dll
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\bin\Debug\net6.0\linqexc.pdb
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.csproj.AssemblyReference.cache
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.AssemblyInfoInputs.cache
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.AssemblyInfo.cs
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.csproj.CoreCompileInputs.cache
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.dll
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\refint\linqexc.dll
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.pdb
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\linqexc.genruntimeconfig.cache
+C:\Users\Eygdnet24\source\repos\linqexc\linqexc\obj\Debug\net6.0\ref\linqexc.dll
