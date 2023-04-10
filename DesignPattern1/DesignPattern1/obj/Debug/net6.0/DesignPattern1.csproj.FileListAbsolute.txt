@@ -1,0 +1,15 @@
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\bin\Debug\net6.0\DesignPattern1.exe
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\bin\Debug\net6.0\DesignPattern1.deps.json
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\bin\Debug\net6.0\DesignPattern1.runtimeconfig.json
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\bin\Debug\net6.0\DesignPattern1.dll
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\bin\Debug\net6.0\DesignPattern1.pdb
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.csproj.AssemblyReference.cache
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.AssemblyInfoInputs.cache
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.AssemblyInfo.cs
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.csproj.CoreCompileInputs.cache
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.dll
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\refint\DesignPattern1.dll
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.pdb
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\DesignPattern1.genruntimeconfig.cache
+C:\Users\Eygdnet24\source\repos\DesignPattern1\DesignPattern1\obj\Debug\net6.0\ref\DesignPattern1.dll
